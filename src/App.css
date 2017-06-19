@@ -1,0 +1,15 @@
+header, footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.search-result {
+    margin-top: 10px;
+}
+
+.search-result-item {
+    padding: 10px;
+}
