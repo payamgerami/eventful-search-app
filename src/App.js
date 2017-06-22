@@ -18,7 +18,7 @@ class App extends Component {
                         Eventful Search App
                     </h4>
                 </header>
-                <div className="row">
+                <div className="container-fluid">
                     <asid className="col-sm-1">
                     </asid>
                     <section className="col-sm-9">
